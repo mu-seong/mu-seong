@@ -2,7 +2,7 @@
 
 <p>&nbsp</p>
 
-<h3 align="center"><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Tech Stack <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji></h3>
+<h2 align="center"><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Tech Stack <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" width="90"/></a>&nbsp
@@ -13,7 +13,7 @@
 
 <p>&nbsp</p>
 
-<h3 align="center">:books: Research Interest :books:</h3>
+<h2 align="center">:books: Research Interest :books:</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Nature Language Processing-ff3333?style=flasfic&logoColor=white" width="200"/></a>&nbsp
