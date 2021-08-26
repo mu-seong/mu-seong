@@ -1,5 +1,8 @@
 ### Hi there 👋
-![Build Status](https://img.shields.io/badge/keras-blue?style=flat-square&logo=python&logoColor=white)
+![Build Status](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
+![Build Status](https://img.shields.io/badge/Keras-blue?style=flat-square&logo=Keras&logoColor=white)
+![Build Status](https://img.shields.io/badge/Tensorflow-blue?style=flat-square&logo=Tensorflow&logoColor=white)
+![Build Status](https://img.shields.io/badge/Pytorch-blue?style=flat-square&logo=Pytorch&logoColor=white)
 
 <!--
 **mu-seong/mu-seong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
