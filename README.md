@@ -1,8 +1,8 @@
-<h1 align="center">Code Repository made by Museong :computer:</h1>
+<h2 align="center"> Code Repository made by <i>Museong</i> :computer: </h2>
 
-<p>&nbsp</p>
+<br>
 
-<h2 align="center"><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Tech Stack <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji></h2>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" width="90"/></a>&nbsp
@@ -11,9 +11,10 @@
 <img src="https://img.shields.io/badge/Pytorch-DB3552?style=flat-square&logo=pytorch&logoColor=white" width="100"/></a>&nbsp
 </p>
 
-<p>&nbsp</p>
+<br>
+<br>
 
-<h2 align="center">:books: Research Interest :books:</h2>
+<h3 align="center">:books: Research Interest :books:</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Nature Language Processing-ff3333?style=flasfic&logoColor=white" width="200"/></a>&nbsp
@@ -25,7 +26,7 @@
 <img src="https://img.shields.io/badge/Data Science-cc33cc?style=flasfic&logoColor=black" width="110"/></a>&nbsp
 </p>
 
-<p>&nbsp</p>
+<br>
 
 <!--
 **mu-seong/mu-seong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
