@@ -1,4 +1,4 @@
-<h2 align="center"> Code Repository made by <i>Museong</i> :computer: </h2>
+<h2 align="center"> Code Repository :computer: </h2>
 
 <br>
 
